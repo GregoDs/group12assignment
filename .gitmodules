@@ -2,3 +2,7 @@
 	path = Speed Detector
 	url = git@github.com:GregoDs/group12assignment.git
 	branch = main
+[submodule "group12assignment"]
+	path = group12assignment
+	url = git@github.com:GregoDs/group12assignment.git
+	branch = main
