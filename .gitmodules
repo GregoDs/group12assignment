@@ -1,0 +1,4 @@
+[submodule "Speed Detector"]
+	path = Speed Detector
+	url = git@github.com:GregoDs/group12assignment.git
+	branch = main
